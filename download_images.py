@@ -3,7 +3,7 @@ import pprint
 import requests
 import shutil
 
-API_KEY = '22143093-6199c7e5e2b15b55d039ca367'
+API_KEY = '#your api key'
 image = Image(API_KEY)
 
 j=1
